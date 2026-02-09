@@ -1,0 +1,20 @@
+{
+  "name": "Tarida Capital",
+  "short_name": "Tarida",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/web-app-manifest-192x192-2QpP1bwDocFmqD2SibfSgkslanJNWG.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/web-app-manifest-512x512-wtYnrWu4xI7POlEn2Of17oJq1c2YNL.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
+
